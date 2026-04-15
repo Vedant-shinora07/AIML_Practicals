@@ -1,0 +1,1 @@
+# Write a Python Code for implementing N Queens Problem.
