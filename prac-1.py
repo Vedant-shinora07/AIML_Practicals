@@ -6,7 +6,7 @@ graph = {
     'E' : []
 }
 
-visited = set()    # store node that are already visited a
+visited = set()    # store node that are already visited
 
 def dfs(node):
     if node not in visited:   # check if node is already visited
